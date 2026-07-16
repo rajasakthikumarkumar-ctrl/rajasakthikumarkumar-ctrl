@@ -93,7 +93,7 @@ Secure MERN stack platform for real-time lost-item reporting and recovery tracki
 
 **Tech:** React · Node.js · MongoDB · AWS EC2/S3 · GitHub Actions
 
-[🔗 View Repository](https://github.com/rajasakthikumar-tech)
+[🔗 View Repository](https://github.com/rajasakthikumarkumar-ctrl/Smart-Recovery-Tracking-System-Lost-and-Found.git)
 
 </td>
 <td width="50%" valign="top">
@@ -103,7 +103,7 @@ GenAI-powered conferencing app with real-time multilingual speech transcription 
 
 **Tech:** MERN · WebRTC · Socket.io · Speech-to-Text · AWS
 
-[🔗 View Repository](https://github.com/rajasakthikumar-tech)
+[🔗 View Repository](https://github.com/rajasakthikumarkumar-ctrl/VIDEO-MEET.git)
 
 </td>
 </tr>
@@ -115,7 +115,22 @@ Real-time peer-to-peer video calling platform with secure room creation and low-
 
 **Tech:** React.js · Node.js · WebRTC · Socket.io · AWS
 
-[🔗 View Repository](https://github.com/rajasakthikumar-tech)
+[🔗 View Repository](https://github.com/rajasakthikumarkumar-ctrl/VIDEO-CALL-PRO.git)
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📹 Video-Translate
+Real-time peer-to-peer video calling platform with secure room creation and low-latency signalling.
+
+**Tech:** React.js · Node.js · WebRTC · Socket.io · AWS
+
+[🔗 View Repository](https://github.com/rajasakthikumarkumar-ctrl/VIDEO-TRANSLATE.git)
 
 </td>
 <td width="50%" valign="top">
